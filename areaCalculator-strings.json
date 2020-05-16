@@ -1,0 +1,7 @@
+{
+    "areacaculator|block": "面積",
+    "areacaculator.areaOfTriangle|block": "取得三角形面積:底: %base|高: %height|選項:%myOpt",
+    "areacaculator.showAreaOfTriangle|block": "LED顯示三角形面積:底: %base|高: %height|選項:%myOpt",
+    "numOption.round|block": "四捨五入",
+    "numOption.float|block": "允許小數"
+}
